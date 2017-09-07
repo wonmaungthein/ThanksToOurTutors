@@ -1,0 +1,22 @@
+{
+  "name": "thankstoourtutors",
+  "version": "1.0.0",
+  "description": "This is a group project to appreciate our tutors and mentors by CodeYourFuture Students from the first Glasgow cohort. We will coordinate and help each other to make a website with the skills we have learn at CodeYourFuture Glasgow.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wonmaungthein/ThanksToOurTutors.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wonmaungthein/ThanksToOurTutors/issues"
+  },
+  "homepage": "https://github.com/wonmaungthein/ThanksToOurTutors#readme",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
